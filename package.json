@@ -32,15 +32,15 @@
   },
   "main": "app.js",
   "devDependencies": {},
+  "description": "\"# eccommerce\" \r # eccommerce",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeshansheikh15/ecommerce2.git"
+    "url": "git+https://github.com/zeeshansheikh15/eccommerce.git"
   },
-  "author": "Zeeshan Sheikh",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeshansheikh15/ecommerce2/issues"
+    "url": "https://github.com/zeeshansheikh15/eccommerce/issues"
   },
-  "homepage": "https://github.com/zeeshansheikh15/ecommerce2#readme",
-  "description": "\"# eccommerce\" \r # eccommerce"
+  "homepage": "https://github.com/zeeshansheikh15/eccommerce#readme"
 }
